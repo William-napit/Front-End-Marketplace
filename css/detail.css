@@ -1,0 +1,54 @@
+.img{
+	border-radius: 50%
+}
+
+@media only screen and (max-width:768px)
+{
+	.card{
+		width: 47%;
+		margin-left: 1%;
+		margin-right: 0em
+	}
+	.form-group{
+		width: 65%;
+		margin-left: -20px
+	}
+	#gambar{
+		
+		text-align: center;
+	}
+}
+#detail a{
+	box-shadow: 0px  1px 6px #000000;
+	padding: 4px 5px 5px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+#button{
+	width: 40%; 
+	box-shadow: 6px 3px 15px #A9A9A9 ;
+	font-family: arial;
+	background-color: #FFA500
+}
+
+#modal{
+	width: 40%; 
+	box-shadow: 6px 3px 15px #A9A9A9 ;
+	background-color: #008B8B;
+
+
+}
+
+.btn .fas{
+	font-size: 20px;
+	cursor: pointer;
+}
+.btn .far{
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.modal-header {
+	background-color: #008B8B
+}

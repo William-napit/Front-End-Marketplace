@@ -1,0 +1,27 @@
+footer img{
+	width: 7em;
+	height: 5em;
+	margin-left: 1em;
+	margin-bottom: 0.5em
+}
+
+
+
+
+hr{
+	width: 100%;
+	border: 1px ridge  white;
+
+}
+
+.footer{
+	padding:0.7em;
+}
+
+footer{
+	font-family: lucia Console;
+}
+
+#top{
+	margin-top: -10px;
+}
